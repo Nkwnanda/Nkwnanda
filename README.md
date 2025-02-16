@@ -41,7 +41,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Nkwnanda/Nkwnanda/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -49,5 +48,4 @@
   <img src="https://profile-counter.glitch.me/Nkwnanda/count.svg?"  />
 </div>
 
-###
 
