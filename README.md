@@ -1,18 +1,33 @@
-<h2 align="left">Ola👋! Meu nom é Fernanda</h2>
+<h2 align="left">Hi 👋! My name is Fernanda</h2>
 
 ###
 
-<img align="right" height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJta3FjNjhtYzh3eXR4N2h2Y2pmeXFlODB2dWplcWw0ZDJwOWZsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BS5xpdVyMKniU/giphy.gif"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nkwnanda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nkwnanda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJta3FjNjhtYzh3eXR4N2h2Y2pmeXFlODB2dWplcWw0ZDJwOWZsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BS5xpdVyMKniU/giphy.gif"  />
 
 ###
 
 <div align="left">
-  <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=Nkwnanda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>"
-  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nkwnanda&layout=compact&langs_count=16&theme=dracula"/>
-  </div>
-
-###
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
 
 ###
 
@@ -26,6 +41,7 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/Nkwnanda/Nkwnanda/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -33,4 +49,4 @@
   <img src="https://profile-counter.glitch.me/Nkwnanda/count.svg?"  />
 </div>
 
-
+###
